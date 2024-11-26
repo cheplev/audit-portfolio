@@ -1,0 +1,6 @@
+[submodule "2024-11-twentyone"]
+	path = 2024-11-twentyone
+	url = https://github.com/cheplev/audit-portfolio.git
+[submodule "puppy-raffle"]
+	path = puppy-raffle
+	url = git@github.com:cheplev/cyfrin-puppy-raffle.git
